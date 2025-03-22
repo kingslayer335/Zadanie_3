@@ -1,6 +1,7 @@
 
 # # # # # # # # # # # my_library # # # # # # # # # # # 
 link do githuba : https://github.com/kingslayer335/Zadanie_3
+
 my_library to biblioteka zawierająca bardzo prosty zestaw funkcji do przetwarzania tekstu, oraz do operacji matematycznych. 
 
 # Zawiera funkcje 
@@ -13,9 +14,13 @@ my_library to biblioteka zawierająca bardzo prosty zestaw funkcji do przetwarza
 # Instalacja 
 Aby zainstalować bibliotekę:
     trzeba sklonować repozytorium poleceniem 
+
     'git clone https://github.com/kingslayer335/python-intro.git'
+
     wejsc do katalogu 'cd python-intro'
+
     wpisac 'pip install -e .'
+
     można też po prostu skopiować pliki do swojego projektu i zaimportować odpowiednie moduły
 
 # Przykłady wywołań funkcji 
@@ -52,7 +57,9 @@ Testy są przeprowadzane przez każdą komendę push/pull, można je znaleźć n
 Umieszczony tam został folder __pycache__
 
 ## black 
-Narzędzie black zostało użyte do formatowania, aby to zrobic uzylem komendy 'pip install black' a potem 'black zadanie_3'
+Narzędzie black zostało użyte do formatowania
+
+aby to zrobic uzylem komendy 'pip install black' a potem 'black zadanie_3'
 
 ## Licencja 
 MIT License
