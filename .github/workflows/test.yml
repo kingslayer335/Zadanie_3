@@ -1,4 +1,4 @@
-name: Python Tests
+name: Testy
 
 on:
   push:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Sprawdz repozytoriun
       uses: actions/checkout@v3
 
     - name: python 3.13.2
@@ -21,10 +21,10 @@ jobs:
       with:
         python-version: '3.13.2'
 
-    - name: Install dependencies
+    - name: Instalowanie zaleznosci
       run: |
         python -m pip install --upgrade pip
 
-    - name: Run tests with pytest
+    - name: Uruchomienie testow unittest
       run: |
         python -m unittest discover
