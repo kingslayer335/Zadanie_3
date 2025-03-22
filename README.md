@@ -5,24 +5,26 @@ link do githuba : https://github.com/kingslayer335/Zadanie_3
 my_library to biblioteka zawierająca bardzo prosty zestaw funkcji do przetwarzania tekstu, oraz do operacji matematycznych. 
 
 # Zawiera funkcje 
-    # konwersji tekstu na wielkie i małe litery
-    # sprawdzające czy string jest w liście
-    # funkcje liczenia wyrazów i znaków w stringu
-    # funkcje odwrócenia stringu
-    # sprawdzenia czy liczba jest pierwsza oraz czy jest pozytywna
-
+```
+    konwersji tekstu na wielkie i małe litery
+    sprawdzające czy string jest w liście
+    funkcje liczenia wyrazów i znaków w stringu
+    funkcje odwrócenia stringu
+    sprawdzenia czy liczba jest pierwsza oraz czy jest pozytywna
+```
 # Instalacja 
 Aby zainstalować bibliotekę:
+```
     trzeba sklonować repozytorium poleceniem 
 
-    'git clone https://github.com/kingslayer335/python-intro.git'
+    git clone https://github.com/kingslayer335/zadanie_3.git
 
-    wejsc do katalogu 'cd python-intro'
+    wejsc do katalogu 'cd zadanie_3'
 
     wpisac 'pip install -e .'
 
     można też po prostu skopiować pliki do swojego projektu i zaimportować odpowiednie moduły
-
+```
 # Przykłady wywołań funkcji 
 
 ## data_utils.py
@@ -49,7 +51,7 @@ print(reverse_text("abc"))  # "cba"
 Testy dla każdej funkcji znajdują się w katalogu `zadanie_3/tests`. Aby uruchomić testy, użyj:
 
 ```
-'python -m unittest discover tests'
+python -m unittest discover tests
 ```
 Testy są przeprowadzane przez każdą komendę push/pull, można je znaleźć na githubie w 'Actions'
 
