@@ -12,11 +12,11 @@ my_library to biblioteka zawierająca bardzo prosty zestaw funkcji do przetwarza
 
 # Instalacja 
 Aby zainstalować bibliotekę:
-    # trzeba sklonować repozytorium poleceniem 'git clone https://github.com/kingslayer335/python-intro.git'
-    # wejsc do katalogu 'cd python-intro'
-    # wpisac 'pip install -e .'
-
-    # można też po prostu skopiować pliki do swojego projektu i zaimportować odpowiednie moduły
+    trzeba sklonować repozytorium poleceniem 
+    'git clone https://github.com/kingslayer335/python-intro.git'
+    wejsc do katalogu 'cd python-intro'
+    wpisac 'pip install -e .'
+    można też po prostu skopiować pliki do swojego projektu i zaimportować odpowiednie moduły
 
 # Przykłady wywołań funkcji 
 
