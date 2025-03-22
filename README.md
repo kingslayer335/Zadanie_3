@@ -1,6 +1,6 @@
 
 # # # # # # # # # # # my_library # # # # # # # # # # # 
-
+link do githuba : https://github.com/kingslayer335/Zadanie_3
 my_library to biblioteka zawierająca bardzo prosty zestaw funkcji do przetwarzania tekstu, oraz do operacji matematycznych. 
 
 # Zawiera funkcje 
