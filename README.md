@@ -6,11 +6,15 @@ my_library to biblioteka zawierająca bardzo prosty zestaw funkcji do przetwarza
 
 # Zawiera funkcje 
 ```
-    konwersji tekstu na wielkie i małe litery
-    sprawdzające czy string jest w liście
-    funkcje liczenia wyrazów i znaków w stringu
-    funkcje odwrócenia stringu
-    sprawdzenia czy liczba jest pierwsza oraz czy jest pozytywna
+    #konwersji tekstu na wielkie i małe litery
+
+    #sprawdzające czy string jest w liście
+
+    #funkcje liczenia wyrazów i znaków w stringu
+
+    #funkcje odwrócenia stringu
+
+    #sprawdzenia czy liczba jest pierwsza oraz czy jest pozytywna
 ```
 # Instalacja 
 Aby zainstalować bibliotekę:
