@@ -52,7 +52,7 @@ Testy są przeprowadzane przez każdą komendę push/pull, można je znaleźć n
 Umieszczony tam został folder __pycache__
 
 ## black 
-Narzędzie black zostało użyte do formatowania
+Narzędzie black zostało użyte do formatowania, aby to zrobic uzylem komendy 'pip install black' a potem 'black zadanie_3'
 
 ## Licencja 
 MIT License
